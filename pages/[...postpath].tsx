@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highrevenuegate.com/q9z4fqbw7?key=c16dfe5f132ef831cabaead42f976ca0`
+					`https://www.highrevenuegate.com/q9z4fqbw7?key=c16dfe5f132ef831cabaead42f976ca0/`
 				}`,
 			},
 		};
